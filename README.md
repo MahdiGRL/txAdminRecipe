@@ -1,4 +1,4 @@
 # txAdminRecipe
 Description: Complete RP Server For FiveM based on grl_core.
 
-This recipe runs inside txAdmin. Please check the Recipe Documentation Page.
+This recipe runs inside [txAdmin](https://github.com/tabarra/txAdmin). Please check the [Recipe Documentation Page](https://github.com/tabarra/txAdmin/blob/master/docs/recipe.md).
